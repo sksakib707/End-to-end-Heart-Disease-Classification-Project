@@ -122,3 +122,9 @@ api_keys.txt
 *.swp
 *.swo
 *.bak
+
+# Ignore local environment
+env/
+venv/
+.venv/
+
